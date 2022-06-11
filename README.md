@@ -121,7 +121,7 @@ There are three packages under the [source/test/java](https://github.com/paramip
 ## Constraints and Challenges
 1. While testing, the dummy users that were needed to be created, could not be deleted even by the user itself.
 2. One light user, could just write one review. Even the author did not have the delete review authorization.
-3. Thus if the write review part had to tested multiple times, new dummy users had to be created. 
+3. Thus if the write review part had to be tested multiple times, new dummy users had to be created. 
 4. Since all these dummy users, needed to point to legitimate email ids where  verification codes were being sent, testing was a bit inconvenient. As a result, I finally moved to Signing up once, manually and then proceeded with the rest of the scenarios.
 
 ## Standalone SignUp Functionality Code
