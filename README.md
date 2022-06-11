@@ -116,7 +116,7 @@ There are three packages under the [source/test/java](https://github.com/paramip
 | Class Name            | Test                                                                                                                                     |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | Messages.java        | Java class containing the resource bundles for string externalization.|           
-| messages.properties | Contains the configurable string inputs like, URL to launch, email ID, password, status text etc                                      
+| messages.properties | Contains the configurable string inputs like, URL to launch, email ID, password, review text etc                                      
 
 ## Constraints and Challenges
 1. While testing, the dummy users that were needed to be created, could not be deleted even by the user itself.
