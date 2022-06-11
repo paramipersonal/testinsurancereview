@@ -1,0 +1,219 @@
+[INFO ] 2022-06-10 17:37:21.393 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 17:37:21.408 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 17:37:24.937 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 17:37:25.978 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 17:37:27.628 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 17:37:27.944 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 17:37:28.020 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 17:37:32.428 [main] TestInsuranceReviewTestScenarios - Test3: Provide a four star rating.
+[INFO ] 2022-06-10 17:37:32.428 [main] TestInsuranceReviewTestScenarios - Step1: Scroll down to the review section in the home page.
+[INFO ] 2022-06-10 17:37:32.500 [main] TestInsuranceReviewTestScenarios - Step2: Hover over each star, till the 4th star to give a 4 star rating.
+[INFO ] 2022-06-10 17:37:32.745 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the write review page to load.
+[INFO ] 2022-06-10 17:37:32.872 [main] TestInsuranceReviewTestScenarios - Test4: Write a review
+[INFO ] 2022-06-10 17:37:32.872 [main] TestInsuranceReviewTestScenarios - Step1: Select Insurance Type Health Insurance
+[INFO ] 2022-06-10 17:37:33.336 [main] TestInsuranceReviewTestScenarios - Step2: Write a review.
+[ERROR] 2022-06-10 17:57:42.601 [main] TestInsuranceReviewTestScenarios - Text length has to be minimum 200
+[INFO ] 2022-06-10 17:57:42.606 [main] TestInsuranceReviewTestScenarios - Will this line print?
+[ERROR] 2022-06-10 18:00:52.739 [main] TestInsuranceReviewTestScenarios - Text length has to be minimum 200
+[INFO ] 2022-06-10 18:13:31.600 [main] TestInsuranceReviewTestScenarios - Will this line log?
+[INFO ] 2022-06-10 18:15:03.290 [main] TestInsuranceReviewTestScenarios - Will this line log?
+[INFO ] 2022-06-10 18:16:43.606 [main] TestInsuranceReviewTestScenarios - Will this line log?
+[INFO ] 2022-06-10 18:17:43.701 [main] TestInsuranceReviewTestScenarios - Will this line log?
+[INFO ] 2022-06-10 18:20:32.579 [main] TestInsuranceReviewTestScenarios - here here.
+[ERROR] 2022-06-10 18:20:32.584 [main] TestInsuranceReviewTestScenarios - Step3: Write a review
+[INFO ] 2022-06-10 18:24:40.849 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 18:24:40.869 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 18:24:43.776 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 18:24:47.934 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 18:24:47.948 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 18:24:48.200 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 18:24:48.299 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 18:24:54.037 [main] TestInsuranceReviewTestScenarios - Test3: Provide a four star rating.
+[INFO ] 2022-06-10 18:24:54.038 [main] TestInsuranceReviewTestScenarios - Step1: Scroll down to the review section in the home page.
+[INFO ] 2022-06-10 18:24:54.104 [main] TestInsuranceReviewTestScenarios - Step2: Hover over each star, till the 4th star to give a 4 star rating.
+[INFO ] 2022-06-10 18:24:54.436 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the write review page to load.
+[INFO ] 2022-06-10 18:24:54.523 [main] TestInsuranceReviewTestScenarios - Test4: Write a review
+[INFO ] 2022-06-10 18:24:54.523 [main] TestInsuranceReviewTestScenarios - Step1: Select Insurance Type Health Insurance
+[INFO ] 2022-06-10 18:24:54.975 [main] TestInsuranceReviewTestScenarios - Step2: Check if the review text has minimum 200 characters.
+[INFO ] 2022-06-10 18:24:54.975 [main] TestInsuranceReviewTestScenarios - Step3: Write a review
+[INFO ] 2022-06-10 19:30:03.302 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 19:30:03.315 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 19:30:06.620 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 19:30:10.310 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 19:30:10.325 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 19:30:10.574 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 19:30:10.671 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 19:34:41.611 [main] TestInsuranceReviewTestScenarios - Test1: Create a light User
+[INFO ] 2022-06-10 19:34:41.627 [main] TestInsuranceReviewTestScenarios - Step1: Launch the WalletHub Light User Sign up page.
+[INFO ] 2022-06-10 19:34:42.806 [main] TestInsuranceReviewTestScenarios - Step2: Wait for the WalletHub Sign Up Page to load properly.
+[INFO ] 2022-06-10 19:35:17.461 [main] TestInsuranceReviewTestScenarios - Test1: Create a light User
+[INFO ] 2022-06-10 19:35:17.476 [main] TestInsuranceReviewTestScenarios - Step1: Launch the WalletHub Light User Sign up page.
+[INFO ] 2022-06-10 19:35:18.266 [main] TestInsuranceReviewTestScenarios - Step2: Wait for the WalletHub Sign Up Page to load properly.
+[INFO ] 2022-06-10 19:35:18.777 [main] TestInsuranceReviewTestScenarios - Step3: Enter the email id and password required for sign up
+[INFO ] 2022-06-10 19:35:19.280 [main] TestInsuranceReviewTestScenarios - Step4: Uncheck the checkbox to receive credit report
+[INFO ] 2022-06-10 19:35:19.372 [main] TestInsuranceReviewTestScenarios - Step5: Click join to sign up
+[INFO ] 2022-06-10 19:35:19.474 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 19:35:19.476 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 19:35:20.649 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 19:35:21.205 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 19:35:22.167 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 19:35:22.477 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 19:35:22.556 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 19:35:52.983 [main] TestInsuranceReviewTestScenarios - Test3: Provide a four star rating.
+[INFO ] 2022-06-10 19:35:52.983 [main] TestInsuranceReviewTestScenarios - Step1: Scroll down to the review section in the home page.
+[INFO ] 2022-06-10 19:36:23.368 [main] TestInsuranceReviewTestScenarios - Test4: Write a review
+[INFO ] 2022-06-10 19:36:23.370 [main] TestInsuranceReviewTestScenarios - Step1: Select Insurance Type Health Insurance
+[INFO ] 2022-06-10 19:36:53.738 [main] TestInsuranceReviewTestScenarios - Test5: Verify review confirmation message
+[INFO ] 2022-06-10 19:36:53.739 [main] TestInsuranceReviewTestScenarios - Step1: Wait for confirmation page to load.
+[INFO ] 2022-06-10 19:37:11.838 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
+[INFO ] 2022-06-10 19:37:11.838 [main] TestInsuranceReviewTestScenarios - Step1: Wait for homepage to load.
+[INFO ] 2022-06-10 19:39:10.317 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 19:39:10.330 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 19:39:11.917 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 19:39:12.511 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 19:39:13.477 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 19:39:13.814 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 19:39:13.902 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 19:39:44.310 [main] TestInsuranceReviewTestScenarios - Test3: Provide a four star rating.
+[INFO ] 2022-06-10 19:39:44.310 [main] TestInsuranceReviewTestScenarios - Step1: Scroll down to the review section in the home page.
+[INFO ] 2022-06-10 19:39:59.251 [main] TestInsuranceReviewTestScenarios - Test4: Write a review
+[INFO ] 2022-06-10 19:39:59.253 [main] TestInsuranceReviewTestScenarios - Step1: Select Insurance Type Health Insurance
+[INFO ] 2022-06-10 19:40:29.323 [main] TestInsuranceReviewTestScenarios - Test5: Verify review confirmation message
+[INFO ] 2022-06-10 19:40:29.325 [main] TestInsuranceReviewTestScenarios - Step1: Wait for confirmation page to load.
+[INFO ] 2022-06-10 19:40:59.415 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
+[INFO ] 2022-06-10 19:40:59.415 [main] TestInsuranceReviewTestScenarios - Step1: Wait for homepage to load.
+[INFO ] 2022-06-10 19:54:55.226 [main] TestInsuranceReviewTestScenarios - Test1: Create a light User
+[INFO ] 2022-06-10 19:54:55.238 [main] TestInsuranceReviewTestScenarios - Step1: Launch the WalletHub Light User Sign up page.
+[INFO ] 2022-06-10 19:54:56.789 [main] TestInsuranceReviewTestScenarios - Step2: Wait for the WalletHub Sign Up Page to load properly.
+[INFO ] 2022-06-10 19:54:56.841 [main] TestInsuranceReviewTestScenarios - Step3: Enter the email id and password required for sign up
+[INFO ] 2022-06-10 19:54:57.249 [main] TestInsuranceReviewTestScenarios - Step4: Uncheck the checkbox to receive credit report
+[INFO ] 2022-06-10 19:54:57.345 [main] TestInsuranceReviewTestScenarios - Step5: Click join to sign up
+[INFO ] 2022-06-10 20:01:35.296 [main] TestInsuranceReviewTestScenarios - Test1: Create a light User
+[INFO ] 2022-06-10 20:01:35.306 [main] TestInsuranceReviewTestScenarios - Step1: Launch the WalletHub Light User Sign up page.
+[INFO ] 2022-06-10 20:01:37.133 [main] TestInsuranceReviewTestScenarios - Step2: Wait for the WalletHub Sign Up Page to load properly.
+[INFO ] 2022-06-10 20:01:37.168 [main] TestInsuranceReviewTestScenarios - Step3: Enter the email id and password required for sign up
+[INFO ] 2022-06-10 20:01:37.568 [main] TestInsuranceReviewTestScenarios - Step4: Uncheck the checkbox to receive credit report
+[INFO ] 2022-06-10 20:01:37.664 [main] TestInsuranceReviewTestScenarios - Step5: Click join to sign up
+[INFO ] 2022-06-10 20:01:37.757 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 20:01:37.759 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 20:01:40.646 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 20:01:41.161 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 20:01:42.151 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 20:01:42.404 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 20:01:42.486 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 20:02:12.856 [main] TestInsuranceReviewTestScenarios - Test3: Provide a four star rating.
+[INFO ] 2022-06-10 20:02:12.856 [main] TestInsuranceReviewTestScenarios - Step1: Scroll down to the review section in the home page.
+[INFO ] 2022-06-10 20:02:15.932 [main] TestInsuranceReviewTestScenarios - Step2: Hover over each star, till the 4th star to give a 4 star rating.
+[INFO ] 2022-06-10 20:02:16.452 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the write review page to load.
+[INFO ] 2022-06-10 20:02:16.474 [main] TestInsuranceReviewTestScenarios - Test4: Write a review
+[INFO ] 2022-06-10 20:02:16.474 [main] TestInsuranceReviewTestScenarios - Step1: Select Insurance Type Health Insurance
+[INFO ] 2022-06-10 20:02:16.832 [main] TestInsuranceReviewTestScenarios - Step2: Check if the review text has minimum 200 characters.
+[INFO ] 2022-06-10 20:02:16.833 [main] TestInsuranceReviewTestScenarios - Step3: Write a review
+[INFO ] 2022-06-10 20:02:17.947 [main] TestInsuranceReviewTestScenarios - Step4: Click Submit Button.
+[INFO ] 2022-06-10 20:02:18.033 [main] TestInsuranceReviewTestScenarios - Test5: Verify review confirmation message
+[INFO ] 2022-06-10 20:02:18.034 [main] TestInsuranceReviewTestScenarios - Step1: Wait for confirmation page to load.
+[INFO ] 2022-06-10 20:02:48.343 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
+[INFO ] 2022-06-10 20:02:48.344 [main] TestInsuranceReviewTestScenarios - Step1: Wait for homepage to load.
+[INFO ] 2022-06-10 20:13:30.385 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 20:13:30.400 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 20:13:33.011 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 20:13:33.540 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 20:13:34.549 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 20:13:34.846 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 20:13:34.995 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 20:13:37.821 [main] TestInsuranceReviewTestScenarios - Test3: Provide a four star rating.
+[INFO ] 2022-06-10 20:13:37.822 [main] TestInsuranceReviewTestScenarios - Step1: Scroll down to the review section in the home page.
+[INFO ] 2022-06-10 20:13:37.886 [main] TestInsuranceReviewTestScenarios - Step2: Hover over each star, till the 4th star to give a 4 star rating.
+[INFO ] 2022-06-10 20:13:38.159 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the write review page to load.
+[INFO ] 2022-06-10 20:13:38.284 [main] TestInsuranceReviewTestScenarios - Test4: Write a review
+[INFO ] 2022-06-10 20:13:38.285 [main] TestInsuranceReviewTestScenarios - Step1: Select Insurance Type Health Insurance
+[INFO ] 2022-06-10 20:13:38.779 [main] TestInsuranceReviewTestScenarios - Step2: Check if the review text has minimum 200 characters.
+[INFO ] 2022-06-10 20:13:38.780 [main] TestInsuranceReviewTestScenarios - Step3: Write a review
+[INFO ] 2022-06-10 20:13:39.887 [main] TestInsuranceReviewTestScenarios - Step4: Click Submit Button.
+[INFO ] 2022-06-10 20:13:39.973 [main] TestInsuranceReviewTestScenarios - Test5: Verify review confirmation message
+[INFO ] 2022-06-10 20:13:39.974 [main] TestInsuranceReviewTestScenarios - Step1: Wait for confirmation page to load.
+[INFO ] 2022-06-10 20:13:42.773 [main] TestInsuranceReviewTestScenarios - Step2: Check whether the review confirmation message was posted.
+[INFO ] 2022-06-10 20:14:12.801 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
+[INFO ] 2022-06-10 20:14:12.802 [main] TestInsuranceReviewTestScenarios - Step1: Wait for homepage to load.
+[INFO ] 2022-06-10 20:23:25.143 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 20:23:25.155 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 20:23:27.425 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 20:23:28.067 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 20:23:29.073 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 20:23:29.412 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 20:23:29.500 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 20:23:32.096 [main] TestInsuranceReviewTestScenarios - Test3: Provide a four star rating.
+[INFO ] 2022-06-10 20:23:32.097 [main] TestInsuranceReviewTestScenarios - Step1: Scroll down to the review section in the home page.
+[INFO ] 2022-06-10 20:23:32.174 [main] TestInsuranceReviewTestScenarios - Step2: Hover over each star, till the 4th star to give a 4 star rating.
+[INFO ] 2022-06-10 20:23:32.602 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the write review page to load.
+[INFO ] 2022-06-10 20:23:32.705 [main] TestInsuranceReviewTestScenarios - Test4: Write a review
+[INFO ] 2022-06-10 20:23:32.705 [main] TestInsuranceReviewTestScenarios - Step1: Select Insurance Type Health Insurance
+[INFO ] 2022-06-10 20:23:33.096 [main] TestInsuranceReviewTestScenarios - Step2: Check if the review text has minimum 200 characters.
+[INFO ] 2022-06-10 20:23:33.096 [main] TestInsuranceReviewTestScenarios - Step3: Write a review
+[INFO ] 2022-06-10 20:23:34.172 [main] TestInsuranceReviewTestScenarios - Step4: Click Submit Button.
+[INFO ] 2022-06-10 20:23:34.261 [main] TestInsuranceReviewTestScenarios - Test5: Verify review confirmation message
+[INFO ] 2022-06-10 20:23:34.262 [main] TestInsuranceReviewTestScenarios - Step1: Wait for confirmation page to load.
+[INFO ] 2022-06-10 20:23:37.101 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
+[INFO ] 2022-06-10 20:23:37.101 [main] TestInsuranceReviewTestScenarios - Step1: Wait for homepage to load.
+[INFO ] 2022-06-10 20:28:53.617 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 20:28:53.629 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 20:28:55.247 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 20:28:55.778 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 20:28:56.734 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 20:28:57.077 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 20:28:57.183 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 20:29:00.139 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
+[INFO ] 2022-06-10 20:44:51.923 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 20:44:51.938 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 20:44:53.550 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 20:44:54.067 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 20:44:55.018 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 20:44:55.351 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 20:44:55.444 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 20:44:58.447 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
+[INFO ] 2022-06-10 20:51:31.463 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 20:51:31.480 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 20:51:32.969 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 20:51:33.486 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 20:51:34.713 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 20:51:35.066 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 20:51:35.155 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 20:51:38.628 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
+[INFO ] 2022-06-10 20:58:04.762 [main] TestInsuranceReviewTestScenarios - Test2: Login as a Light User
+[INFO ] 2022-06-10 20:58:04.780 [main] TestInsuranceReviewTestScenarios - Step1: Launch the test insurance home page.
+[INFO ] 2022-06-10 20:58:06.280 [main] TestInsuranceReviewTestScenarios - Step2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 20:58:06.859 [main] TestInsuranceReviewTestScenarios - Step3: Wait for the login page to load.
+[INFO ] 2022-06-10 20:58:07.967 [main] TestInsuranceReviewTestScenarios - Step4: Enter login email and password
+[INFO ] 2022-06-10 20:58:08.303 [main] TestInsuranceReviewTestScenarios - Step5: Click the login button.
+[INFO ] 2022-06-10 20:58:08.397 [main] TestInsuranceReviewTestScenarios - Step6: Wait for the home page to load post login
+[INFO ] 2022-06-10 20:58:10.831 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
+[INFO ] 2022-06-10 20:58:41.268 [main] TestInsuranceReviewTestScenarios - Test3: Provide a four star rating.
+[INFO ] 2022-06-10 20:58:41.269 [main] TestInsuranceReviewTestScenarios - Step1: Scroll down to the review section in the home page.
+[INFO ] 2022-06-10 20:58:41.317 [main] TestInsuranceReviewTestScenarios - Step2: Hover over each star, till the 4th star to give a 4 star rating.
+[INFO ] 2022-06-10 20:58:47.813 [main] TestInsuranceReviewTestScenarios - Test4: Write a review
+[INFO ] 2022-06-10 20:58:47.815 [main] TestInsuranceReviewTestScenarios - Step1: Select Insurance Type Health Insurance
+[INFO ] 2022-06-10 20:59:17.846 [main] TestInsuranceReviewTestScenarios - Test5: Verify review confirmation message
+[INFO ] 2022-06-10 20:59:17.847 [main] TestInsuranceReviewTestScenarios - Step1: Wait for confirmation page to load.
+[INFO ] 2022-06-10 21:09:49.584 [main] TestInsuranceReviewTestScenarios - Test1: Login as a Light User
+[INFO ] 2022-06-10 21:09:49.606 [main] TestInsuranceReviewTestScenarios - Step1_1: Launch the test insurance home page.
+[INFO ] 2022-06-10 21:09:51.157 [main] TestInsuranceReviewTestScenarios - Step1_2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 21:09:51.709 [main] TestInsuranceReviewTestScenarios - Step1_3: Wait for the login page to load.
+[INFO ] 2022-06-10 21:09:52.728 [main] TestInsuranceReviewTestScenarios - Step1_4: Enter login email and password
+[INFO ] 2022-06-10 21:09:53.073 [main] TestInsuranceReviewTestScenarios - Step1_5: Click the login button.
+[INFO ] 2022-06-10 21:09:53.174 [main] TestInsuranceReviewTestScenarios - Step1_6: Wait for the home page to load post login
+[INFO ] 2022-06-10 21:09:56.407 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
+[INFO ] 2022-06-10 21:33:25.682 [main] TestInsuranceReviewTestScenarios - Test1: Login as a Light User
+[INFO ] 2022-06-10 21:33:25.698 [main] TestInsuranceReviewTestScenarios - Step1_1: Launch the test insurance home page.
+[INFO ] 2022-06-10 21:33:27.251 [main] TestInsuranceReviewTestScenarios - Step1_2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 21:33:28.865 [main] TestInsuranceReviewTestScenarios - Step1_3: Wait for the login page to load.
+[INFO ] 2022-06-10 21:33:28.877 [main] TestInsuranceReviewTestScenarios - Step1_4: Enter login email and password
+[INFO ] 2022-06-10 21:33:29.123 [main] TestInsuranceReviewTestScenarios - Step1_5: Click the login button.
+[INFO ] 2022-06-10 21:33:29.214 [main] TestInsuranceReviewTestScenarios - Step1_6: Wait for the home page to load post login
+[INFO ] 2022-06-10 21:41:07.381 [main] TestInsuranceReviewTestScenarios - Test1: Login as a Light User
+[INFO ] 2022-06-10 21:41:07.398 [main] TestInsuranceReviewTestScenarios - Step1_1: Launch the test insurance home page.
+[INFO ] 2022-06-10 21:41:08.886 [main] TestInsuranceReviewTestScenarios - Step1_2: Click on the Login Button, in top left corner.
+[INFO ] 2022-06-10 21:41:09.465 [main] TestInsuranceReviewTestScenarios - Step1_3: Wait for the login page to load.
+[INFO ] 2022-06-10 21:41:10.429 [main] TestInsuranceReviewTestScenarios - Step1_4: Enter login email and password
+[INFO ] 2022-06-10 21:41:10.741 [main] TestInsuranceReviewTestScenarios - Step1_5: Click the login button.
+[INFO ] 2022-06-10 21:41:10.833 [main] TestInsuranceReviewTestScenarios - Step1_6: Wait for the home page to load post login
+[INFO ] 2022-06-10 21:41:13.613 [main] TestInsuranceReviewTestScenarios - Test6: Check if review got posted in home page.
