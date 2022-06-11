@@ -73,7 +73,7 @@ https://github.com/paramipersonal/testinsurancereview.git
 5. Navigate to Import from Git ,using smart Import
 6. Clone the github repository.
 7. Eclipse will fetch the master branch, keep clicking on Next button until project is imported.
-8. Once all the dependency errors get resolved, run the [TestInsuranceReviewTestScenarios.java](https://github.com/paramipersonal/testinsurancereview/blob/master/src/test/java/test_scenarios/TestInsuranceReviewTestScenarios.java)ile to run the tests.
+8. Once all the dependency errors get resolved, run the [TestInsuranceReviewTestScenarios.java](https://github.com/paramipersonal/testinsurancereview/blob/master/src/test/java/test_scenarios/TestInsuranceReviewTestScenarios.java) file to run the tests.
 
 ## Assumptions
 The light user that will be used to run the TestInsuranceReviewTestScenarios.java will be manually created. 
