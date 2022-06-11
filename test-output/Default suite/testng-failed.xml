@@ -6,8 +6,9 @@
       <class name="test_scenarios.TestInsuranceReviewTestScenarios">
         <methods>
           <include name="tearDown"/>
-          <include name="loginAsLightUser"/>
           <include name="beforetest"/>
+          <include name="checkIfReviewPostedInHomePage"/>
+          <include name="confirmReview"/>
         </methods>
       </class> <!-- test_scenarios.TestInsuranceReviewTestScenarios -->
     </classes>

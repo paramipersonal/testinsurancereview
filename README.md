@@ -148,5 +148,7 @@ Corresponding Page Object can be found in [SignUp Page Object](https://github.co
 ## Future Scopes
 1. User given the capacity to delete themselves.
 2. Dummy users given the capacity to post multiple reviews.
+3. More optimized use of the page object model.
+4. Fetching the type of email id that a dummy user is using to create an account and launching that particular website's email portal. ( For example, If one user uses, abc@outlook.com to sign up, then outlook is launched next to proceed with email id verification.)
 
 

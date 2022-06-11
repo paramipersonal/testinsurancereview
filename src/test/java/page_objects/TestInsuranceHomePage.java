@@ -4,6 +4,7 @@ import static org.testng.Assert.assertEquals;
 
 import java.util.List;
 
+import org.apache.commons.compress.harmony.archive.internal.nls.Messages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -24,9 +25,7 @@ public class TestInsuranceHomePage extends BasePage
 	By reviewSectionStarLocator = By.className("review-action");
 	By reviewSectionLocator = By.id("reviews-section");
 	By homePageLocator = By.id("web-app");
-	//By myReviewLocator = By.xpath("//span[contains(@content,'Your Review')]");
-	By myReviewLocator = By.cssSelector("span[content='Your Review']");
-
+    By myReviewLocator = By.className("rvtab-content");
 	
 	
 	public void launchTestInsuranceHomePage(String homePageURL) {
@@ -80,10 +79,9 @@ public class TestInsuranceHomePage extends BasePage
 	
 	}
 	
-	public void locateYourReview() {
+	public void locateYourReview(String reviewText) {
 		WebElement yourReview = explicitWait.until(ExpectedConditions.visibilityOfElementLocated(myReviewLocator));
-		assertEquals(yourReview.getText(),"Your Review");
-		
+		assertEquals(yourReview.getText().contains("a distinct section of a piece of writing"),true);		
 	}
 	
 

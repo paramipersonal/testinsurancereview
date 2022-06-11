@@ -61,11 +61,6 @@ public class TestInsuranceReviewTestScenarios {
 		loginPage.clickLoginButton();
 		logger.info("Step1_6: Wait for the home page to load post login");
 		homePage.waitForHomePagetoLoad();
-		//logger.info("Test6: Check if review got posted in home page.");
-		//homePage.scrollDownToReviewsSection();
-		//homePage.waitForReviewSectionToLoad();
-		//homePage.locateYourReview();
-
 	}
 
 
@@ -125,7 +120,7 @@ public class TestInsuranceReviewTestScenarios {
 		logger.info("Step5_3: Wait for the review section to load.");
 		homePage.waitForReviewSectionToLoad();
 		logger.info("Step5_4: Check if your review is present.");
-		homePage.locateYourReview();
+		homePage.locateYourReview(Messages.getString("ReviewText"));
 	}
 
 
