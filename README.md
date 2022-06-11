@@ -77,15 +77,15 @@ https://github.com/paramipersonal/testinsurancereview.git
 
 ## Assumptions
 The light user that will be used to run the TestInsuranceReviewTestScenarios.java will be manually created. 
-This assumption was made because, before the light user could post any sort of reviews after logging it, it needed to verify its email id by clicking on a link sent by WalletHub to that particular email id used. But still if you want to run an automated sign Up, 
+This assumption was made because, before the light user could post any sort of reviews after logging in .It needs to verify its email id by clicking on a link sent by WalletHub to that particular email id used. But still if you want to run an automated sign Up, 
 I have separately provided the code for Just Sign Up [here](#standalone-signup-functionality-code).
 
 ## Project Structure and Descriptions
 This is a simple project that uses Selenium 3, Java, TestNG to perform the below actions : 
 1. Launch the [Test Insurance Company homepage](https://wallethub.com/profile/13732055i).
 2. Login as a light user,  using your choice of email id and password.
-3. Hover over the stars one by one and  gives a four star rating in the reviews section of the page.
-4. Select a Insurance Type in the Review Page.
+3. Hover over the stars one by one and  give a four star rating in the reviews section of the page.
+4. Select an Insurance Type in the Review Page.
 5. Write a Review with a text having character count not less than 200 characters.
 6. Confirm that review got posted and assert the review confirmation.
 7. Launch the homepage again, locate the newly created review in that page. 
@@ -120,9 +120,9 @@ There are three packages under the [source/test/java](https://github.com/paramip
 
 ## Constraints and Challenges
 1. While testing, the dummy users that were needed to be created, could not be deleted even by the user itself.
-2. One light user, could just write one review. Even the author did not have the delete review option.
+2. One light user, could just write one review. Even the author did not have the delete review authorization.
 3. Thus if the write review part had to tested multiple times, new dummy users had to be created. 
-4. Since all these dummy users, needed to point to legitimate email ids where  verification codes were being sent, testing was a bit inconvenient. As a result, I finally moved to Create Sign Up once, manually and then proceeded with the rest of the scenarios.
+4. Since all these dummy users, needed to point to legitimate email ids where  verification codes were being sent, testing was a bit inconvenient. As a result, I finally moved to Signing up once, manually and then proceeded with the rest of the scenarios.
 
 ## Standalone SignUp Functionality Code
 ```
