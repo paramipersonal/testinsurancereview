@@ -6,6 +6,8 @@
 * [Clone and run project using Eclipse](#clone-and-run-project-using-eclipse)
 * [Assumptions](#assumptions)
 * [Project Structure and Descriptions](#project-structure-and-descriptions)
+* [Constraints and Challenges](#constraints-and-challenges)
+* [Future Scopes](#future-scopes)
 
 ## Prerequisites
 1. **Eclipse IDE**: Eclipse IDE for Java developers can be used to open this maven project 
@@ -63,7 +65,7 @@
 ## Clone and Run Project using Eclipse:
 1. Clone the repository link:
 ```
-https://github.com/paramipersonal/facebook-selenium-java-testng.git
+https://github.com/paramipersonal/testinsurancereview.git
 ```
 2. Open Eclipse IDE
 3. Click on File
@@ -71,12 +73,12 @@ https://github.com/paramipersonal/facebook-selenium-java-testng.git
 5. Navigate to Import from Git ,using smart Import
 6. Clone the github repository.
 7. Eclipse will fetch the master branch, keep clicking on Next button until project is imported.
-8. Once all the dependency errors get resolved, run the [FacebookBasicTestSpec.java](https://github.com/paramipersonal/facebook-selenium-java-testng/blob/master/src/test/java/test_scenarios/FacebookBasicTestSpec.java) file to run the tests.
+8. Once all the dependency errors get resolved, run the [TestInsuranceReviewTestScenarios.java](https://github.com/paramipersonal/testinsurancereview/blob/master/src/test/java/test_scenarios/TestInsuranceReviewTestScenarios.java)ile to run the tests.
 
 ## Assumptions
 The light user that will be used to run the TestInsuranceReviewTestScenarios.java will be manually created. 
 This assumption was made because, before the light user could post any sort of reviews after logging it, it needed to verify its email id by clicking on a link sent by WalletHub to that particular email id used. But still if you want to run an automated sign Up, 
-I have separately provided the code for Just Sign Up here. 
+I have separately provided the code for Just Sign Up [here](#standalone-signup-functionality-code).
 
 ## Project Structure and Descriptions
 This is a simple project that uses Selenium 3, Java, TestNG to perform the below actions : 
@@ -89,7 +91,7 @@ This is a simple project that uses Selenium 3, Java, TestNG to perform the below
 7. Launch the homepage again, locate the newly created review in that page. 
 
 ### Files
-There are three packages under the [source/test/java](https://github.com/paramipersonal/facebook-selenium-java-testng/tree/master/src/test/java) directory:
+There are three packages under the [source/test/java](https://github.com/paramipersonal/testinsurancereview/tree/master/src/test/java) directory:
 * [Package: page_objects](#files-inside-page-objects-directory)
 * [Package: test_scenarios](#files-inside-the-test_scenarios-directory)
 * [Package: resources](#files-inside-the-resources-directory)
@@ -141,6 +143,8 @@ There are three packages under the [source/test/java](https://github.com/paramip
 		signUpPage.clickJoinToSignUp();
 	}
 ```
+Corresponding Page Object can be found in [SignUp Page Object](https://github.com/paramipersonal/testinsurancereview/blob/master/src/test/java/page_objects/TestInsuranceSignUpPage.java)
+
 ## Future Scopes
 1. User given the capacity to delete themselves.
 2. Dummy users given the capacity to post multiple reviews.
