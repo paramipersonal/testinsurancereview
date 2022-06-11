@@ -4,7 +4,6 @@ import static org.testng.Assert.assertEquals;
 
 import java.util.List;
 
-import org.apache.commons.compress.harmony.archive.internal.nls.Messages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
